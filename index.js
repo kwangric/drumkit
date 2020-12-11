@@ -49,7 +49,7 @@ function makeSound(key) {
       crash.play();
       break;
     default:
-      console.log(buttonInnerHTML);
+      console.log(key);
   }
 }
 
